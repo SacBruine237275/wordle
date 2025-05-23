@@ -23,9 +23,9 @@ export default function InfoPage() {
         </p>
 
         <p className="text-lg leading-relaxed">
-          Le code source est accessible ici :&nbsp;
+          Le code source est accessible ici : &nbsp;
           <a
-            href="https://github.com/" target="_blank" rel="noopener noreferrer"
+            href="https://github.com/SacBruine237275/wordle" target="_blank" rel="noopener noreferrer"
             className="text-blue-500 underline hover:text-blue-400 transition-colors duration-200">
             GitHub
           </a>.
